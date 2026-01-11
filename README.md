@@ -1,5 +1,8 @@
 # 💫 About Me:
-i am currently working on DSA & MERN stablility<br>i solve 200+ questions in DSA CPP<br>i study at COER University Roorkee<br>i Made 2 projects also
+I am currently strengthening my foundations in DSA and MERN stack, focusing on consistency and long-term stability rather than shortcuts.<br>
+I have solved 200+ DSA problems in C++, sharpening my problem-solving and logical thinking skills.<br>
+I am pursuing my studies at COER University.<br>
+I have built 2 real-world projects, applying concepts to practical development and real use cases.
 
 
 ## 🌐 Socials:
