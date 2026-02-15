@@ -1,8 +1,12 @@
 # 💫 About Me:
 I am currently strengthening my foundations in Data Structures & Algorithms and the MERN stack, focusing on consistency and long-term engineering depth.
+
 I have solved 200+ DSA problems in C++, sharpening my problem-solving and logical thinking skills.
+
 Recently, I worked as an InvestTech Investment Analyst Intern at ZeTheta Algorithms, where I built financial models, performed liquidity analysis, and developed sentiment-driven trading insights using Python and data analysis.
+
 I am pursuing my B.Tech in Computer Science at COER University and have built real-world projects applying AI, full-stack development, and system design to practical use cases.
+
 
 
 
