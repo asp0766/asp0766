@@ -1,12 +1,7 @@
 # 💫 About Me:
-I am currently strengthening my foundations in Data Structures & Algorithms and the MERN stack, focusing on consistency and long-term engineering depth.
+I'm a Full-Stack Software Engineer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js), with hands-on experience building REST APIs, real-time applications using Socket.IO, and cloud-deployed platforms on Vercel and Render. I recently worked as a MERN Stack Intern at Byteroar Private Limited, where I built and maintained production features, RESTful APIs, and followed Agile/Scrum sprint workflows. Before that, I interned as an Investment Analyst at Zetheta Algorithms, building financial models and sentiment-analysis pipelines using Python.
 
-Recently, I worked as an InvestTech Investment Analyst Intern at ZeTheta Algorithms, where I built financial models, performed liquidity analysis, and developed sentiment-driven trading insights using Python and data analysis.
-
-I am pursuing my B.Tech in Computer Science at COER University and have built real-world projects applying AI, full-stack development, and system design to practical use cases.
-
-
-
+I'm pursuing my B.Tech in Computer Science at COER University, with a strong foundation in Data Structures & Algorithms ,  OOP, DBMS, and System Design. I enjoy building real-world projects — check out GuptChat, a real-time anonymous chat platform, and Specs, an IoT-based drowsiness detection system.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/asp0766) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asp0766) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asp0766) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/asp07660766) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/asp0766) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31276756) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/asp0766) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@asp0766) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asp07660766@gmail.com) 
